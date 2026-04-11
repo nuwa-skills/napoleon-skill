@@ -1,17 +1,16 @@
-<h1 align="center">Napoleon.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"不想当将军的士兵不是好士兵。"</em>
-</p>
+# Napoleon.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/napoleon-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://github.com/Panmax/napoleon-skill"><img src="https://img.shields.io/badge/skill-napoleon--perspective-red.svg" alt="Skill: napoleon-perspective"></a>
-  <a href="https://github.com/Panmax/napoleon-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/napoleon-skill?style=social" alt="GitHub Stars"></a>
-</p>
+> *"不想当将军的士兵不是好士兵。"*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 **让 Claude 以拿破仑的视角思考 -- 果断决策、闪电执行、格言式智慧，将军事战略思维注入你的日常问题分析。**
 
+</div>
 ---
 
 ## 效果示例
@@ -98,10 +97,12 @@ napoleon-skill/
 
 ---
 
-## 许可证
-
-[MIT](./LICENSE) -- 自由使用，如同拿破仑征服欧洲一样自由。
-
 ---
 
-<p align="center"><sub>Built with the spirit of the Grande Armee</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
