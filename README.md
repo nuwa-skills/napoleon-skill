@@ -5,10 +5,10 @@
 > *"不想当将军的士兵不是好士兵。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-**让 Claude 以拿破仑的视角思考 -- 果断决策、闪电执行、格言式智慧，将军事战略思维注入你的日常问题分析。**
+**让 AI 以拿破仑的视角思考 -- 果断决策、闪电执行、格言式智慧，将军事战略思维注入你的日常问题分析。**
 
 </div>
 ---
